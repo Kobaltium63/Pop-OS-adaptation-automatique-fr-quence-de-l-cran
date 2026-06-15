@@ -24,6 +24,8 @@ Puis applique l'une de ces commandes :
 cosmic-randr mode --refresh 144 eDP-1 1920 1080
 cosmic-randr mode --refresh 60 eDP-1 1920 1080
 ```
+Ces commandes sont à adapter en fonction de la machine cible et des besoins.
+Elles sont ici adapté à une machine Asus Tuf FA507.
 
 Une règle **udev** déclenche ensuite automatiquement le script quand le chargeur est branché ou débranché[1][2].
 
